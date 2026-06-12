@@ -13,7 +13,11 @@ cse445-poisonous-mushroom-classification.ipynb — contains the full pipeline: d
 ## Author
 
 **Mushfiqur Rahman Rafin** 
+
 Computer Science & Engineering
+
 North South University
-Graduate Student, Computer Science  
+
+Graduate Student, Computer Science 
+
 University of Missouri, Kansas City
